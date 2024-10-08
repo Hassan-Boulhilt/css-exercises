@@ -1,5 +1,5 @@
 .red_pink {
-    font-family: 'Verdana' 'DejaVu Sans' sans-serif;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
     background-color: rgb(236, 117, 37);
 
 }
@@ -9,4 +9,9 @@
 }
 .red_pink_font {
     font-size:24px;
+}
+#light_green {
+    background-color:rgb(153, 247, 153);
+    font-size:24px;
+    font-weight:900;
 }
